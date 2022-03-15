@@ -8,10 +8,13 @@
 ### Mine notater som jeg bruker mens jeg tenker
 
 | Spør deg selv: | Mulige svar/refleksjoner|
-|---|---|
-| Hva spør oppgaven om? Hva er det jeg skal finne en løsning på? | Hvor mange personer er det plass til i en heis	  |
-| Hva vet jeg? | - Heisen er 1x2,5 meter. 100x250 cm - Heisen rommer maks 21 personer - Heisen tar maks 1600 kg  |
-| Kan jeg bruke det jeg vet til å løse oppgaven? Er det eventuelt informasjon som jeg mangler? _Kan jeg gjøre antakelser/ forutsetninger_? |  Min første antagelse er at det er normale tilstander i samfunnet og at en ikke trenger å holde 1 meter avstand til andre (skrevet under korona-tida). - Videre tenker jeg at alle menneskene jeg skal plassere i heisen er ca like store og av gjennomsnittlig størrelse. - Når man skal dekke et bord, beregner man at hver kuvert er på 60cm. Da har man god plass. Jeg antar derfor at et menneske er ca 50cm bredt, og 50 cm "dypt". På en skisse vi jeg tegne hver person som en firkant på 50x50cm |
+|:---|:---|
+| Hva spør oppgaven om?  Hva er det jeg skal finne en løsning på? | Hvor mange personer er det plass til i en heis	  |
+| Hva vet jeg? |
+  - Heisen er 1x2,5 meter = 100x250 cm
+  - Heisen rommer maks 21 personer
+  - Heisen tar maks 1600 kg  |
+| Kan jeg bruke det jeg vet til å løse oppgaven? Er det eventuelt informasjon som jeg mangler? _Kan jeg gjøre antakelser/ forutsetninger_? |  Min første antagelse er at det er normale tilstander i samfunnet og at en ikke trenger å holde 1 meter avstand til andre (skrevet under korona-tida).  - Videre tenker jeg at alle menneskene jeg skal plassere i heisen er ca like store og av gjennomsnittlig størrelse.  - Når man skal dekke et bord, beregner man at hver kuvert er på 60cm. Da har man god plass. Jeg antar derfor at et menneske er ca 50cm bredt, og 50 cm "dypt". På en skisse vi jeg tegne hver person som en firkant på 50x50cm |
 | Hvilke resultater gir dette? Er det noe som skiller seg ut som det er verdt å bemerke? |	Hvis jeg tenker at et menneske er 50x50cm går det to mennesker i bredden og 5 mennesker i lengden. Til sammen blir dette 10 mennesker i heisen   |
 | Hvordan kan jeg presentere resultatene mine? (Tabell, Graf, Diagram, Formel, Modell, Regresjon, Annet? |	Jeg kan lage ne skisse eller tegning   |
 
