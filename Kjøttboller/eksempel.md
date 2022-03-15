@@ -22,7 +22,6 @@ Selve svaret på oppgaven bør utarbeides etter PDB-metoden (Påstand, Data, Beg
 _DET ER DELEN UNDER HER SOM SKAL LEVERES INN!_
 
 ## Innlevering
- 
 ### PÅSTAND: 	
 Det er plass til 10 personer i heisen
  
@@ -31,7 +30,8 @@ Jeg antar at samfunnet er i normaltilstand og at det ikke er avstandsrestriksjon
  
 	Når man skal dekke et bord, beregner man at hver kuvert er på 60 cm. Som regel har man god plass da. Jeg 	antar derfor at en person er mindre enn 60 cm, og tenker at 50 cm er et fint gjennomsnitt. Jeg antar også at en 	person er ca. like "dyp", at det altså ikke spiller noen rolle om hvilken retning personen står i. Dette fordi ingen 	liker å stå så tett at man i prinsippet har nesen sin i naboens hår. 
 
-![skisse av ti personer i heis](heis med ti personer.png)
+
+![skisse av ti personer i heis](heis_med_ti_personer.png)
 
 ### BEGRUNNELSE:
 Heisen er 100x250 cm, altså er det plass til to personer i bredden og 5 i lengden. Totalt blir dette 10 personer 	i heisen. Se figur 1 for skisse.
