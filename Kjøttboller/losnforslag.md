@@ -19,11 +19,13 @@ Jeg antar at en kjøttbolle er 2cm i diameter
 
 Volumet til gryta blir 
 > V=π*r^2*h= π*10^2*16=5026 cm^3=5,026 dm^3=5 liter 
+
 ¼ av dette volumet blir 
 > V/4=(5026 cm^3)/4=1256 cm^3 
 
 Volumet til en kjøttbolle blir 
 > V=(4*π*r^3)/3=  (4*π*1^3)/3=4,19cm^3 
+
 Da er det plass til 
 > 1256/4,19= 219  kjøttboller 
 
