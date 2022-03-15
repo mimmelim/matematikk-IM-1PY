@@ -1,4 +1,4 @@
-Hva spør oppgaven om? 
+##Hva spør oppgaven om? 
 Hva er det jeg skal finne en løsning på? 	Hvor mange kjøttboller er det plass til i gryta?
 Hva vet jeg?	Komfyren er 60 cm breid. 
 Sausen fyller ¾ av gryta.
