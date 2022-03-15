@@ -16,14 +16,16 @@ Det er plass til 219 kjøttboller
 Jeg veit at volumet av kjøttbollene må utgjøre volumet av ¼ av gryta. Dette volumet må jeg beregne.
 Jeg kjenner ikke diameteren på gryta, men kan anslå den ut fra komfyrbredde. Gryta ser ut til å være ca 1/3 av komfyren. Dvs 20 cm diameter. Høyden til gryta ser ut til å være noe mindre enn diameteren. Jeg antar at høyden er 16 cm.
 Jeg antar at en kjøttbolle er 2cm i diameter
-¬¬
+
 Volumet til gryta blir 
-V=π*r^2*h= π*10^2*16=5026 cm^3=5,026 dm^3=5 liter 
-¼ av dette volumet blir V/4=(5026 cm^3)/4=1256 cm^3 
+> V=π*r^2*h= π*10^2*16=5026 cm^3=5,026 dm^3=5 liter 
+¼ av dette volumet blir 
+> V/4=(5026 cm^3)/4=1256 cm^3 
 
 Volumet til en kjøttbolle blir 
-V=(4*π*r^3)/3=  (4*π*1^3)/3=4,19cm^3 
-Da er det plass til 1256/4,19= 219  kjøttboller 
+> V=(4*π*r^3)/3=  (4*π*1^3)/3=4,19cm^3 
+Da er det plass til 
+> 1256/4,19= 219  kjøttboller 
 
 
 ## Begrunnelse:
