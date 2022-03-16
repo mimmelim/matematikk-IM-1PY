@@ -33,3 +33,4 @@ Da er det plass til
 ## Begrunnelse:
 Eg ser at eg har rekna feil i denne oppgåva, men eg finn ikkje feilen min. Det er ikkje logisk at det skal vere rom for 219 kjøttbollar i ei gryte på fem liter. 
 
+
