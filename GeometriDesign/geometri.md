@@ -42,7 +42,7 @@ Mens de andre presenterer for lærer skal du ferdigstille dokumentasjon av forar
 Se ndla-teksten om å dokumentere eget arbeid. Legg spesielt merke til hva du bør ha i tankene mens du gjennomfører oppgava: 
 
 
-1. Ulike måter å dokumentere prosjekter og prosesser
+### 1. Ulike måter å dokumentere prosjekter og prosesser
 * skrive logg
 *	skrive prosjektrapport
 *	gjøre videoopptak
@@ -52,7 +52,7 @@ Se ndla-teksten om å dokumentere eget arbeid. Legg spesielt merke til hva du b�
 Kombiner gjerne flere dokumentasjonstyper når du dokumenterer arbeidet ditt.
 
 
-2. Sjekkliste dokumentasjon
+### 2. Sjekkliste dokumentasjon
 *	Finn ut hva du skal dokumentere og hvordan.
 *	Tenk på dokumentasjon underveis i arbeidet, ta bilder, skjermbilder og notater.
 *	Skriv logg etter hver arbeidsøkt.
@@ -63,7 +63,7 @@ Kombiner gjerne flere dokumentasjonstyper når du dokumenterer arbeidet ditt.
 *	Trekk inn fagkunnskaper der det er naturlig.
 
 
-3. Tenk gjennom når du skal skrive dokumentasjonen
+### 3. Tenk gjennom når du skal skrive dokumentasjonen
 *	Hvem skriver jeg for? 
 *	Hvilket kunnskapsnivå har brukeren?
 *	Hvorfor leser brukeren dokumentasjonen? 
