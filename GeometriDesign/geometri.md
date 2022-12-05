@@ -22,7 +22,7 @@ https://r8edge.no/arbeider/telemark-museum/
 
  
 ## Vurderingskriterier
-|--|	1	|Lav kompetanse	|Middels kompetanse	|Høy kompetanse|
+| --|	1	| Lav kompetanse	| Middels kompetanse	| Høy kompetanse|
 |Reklame: visuell profil		|--|Har minst tre geometriske former i en enkel visuell profil	|Har minst tre geometriske former i en enkel visuell profil, og formene brukes i reklamen	|Viser kunnskap om hvordan den visuelle profilen kan støtte budskapet i reklamen|
 |Reklame: komposisjon		|--|Reklamen inneholder flere elementer 	|Bruker linjer, forhold og komposisjon til å plassere elementer i reklamen	|Viser kunnskap om hvilken effekt linjer, forhold og komposisjon har ved plassering av elementer i reklamen|
 |Foto: komposisjon		|Reklamen har et bilde	|Reklamen har minst ett egenprodusert bilde der komposisjonsprinsipper er brukt.	|Reklamen har minst ett egenprodusert bilde der komposisjonsprinsipper er brukt på en bevisst måte|
