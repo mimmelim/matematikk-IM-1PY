@@ -40,7 +40,8 @@ Eksempler på visuelle profiler:
 I uke XX skal klassen presentere reklamene sine for matematikklæreren. 
 Mens de andre presenterer for lærer skal du ferdigstille dokumentasjon av forarbeid, arbeid og etterarbeid. Dokumentasjonen skal leveres inn. 
 Se ndla-teksten om å dokumentere eget arbeid. Legg spesielt merke til hva du bør ha i tankene mens du gjennomfører oppgava: 
-<!--lage ul i html??-->
+
+
 1. Ulike måter å dokumentere prosjekter og prosesser
 * skrive logg
 *	skrive prosjektrapport
@@ -48,7 +49,8 @@ Se ndla-teksten om å dokumentere eget arbeid. Legg spesielt merke til hva du b�
 *	ta bilder 
 *	jobber du på en datamaskin, kan du ta skjermbilder
 *	legge ved produkter/skisser du har produsert 
-Kombiner gjerne flere dokumentasjonstyper når du dokumenterer arbeidet ditt. 
+Kombiner gjerne flere dokumentasjonstyper når du dokumenterer arbeidet ditt.
+
 
 2. Sjekkliste dokumentasjon
 *	Finn ut hva du skal dokumentere og hvordan.
@@ -59,6 +61,7 @@ Kombiner gjerne flere dokumentasjonstyper når du dokumenterer arbeidet ditt.
 *	Vær detaljert og konkret.
 *	Vis prosessen, ikke bare sluttproduktet.
 *	Trekk inn fagkunnskaper der det er naturlig.
+
 
 3. Tenk gjennom når du skal skrive dokumentasjonen
 *	Hvem skriver jeg for? 
