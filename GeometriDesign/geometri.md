@@ -12,17 +12,10 @@ I tillegg bør reklamen din inneholde bilde/-r og tekst. Du skal ta egne bilder.
 Plassering av både tekst, bilder og figurer skal ha en geometrisk begrunnelse. 
 Når du presenterer reklamen din må du huske hvilket fag du skal vise kompetanse fra! Få mest mulig matematikk med i presentasjonen (bruk gjerne matematikkboka som inspirasjon).
 
-Eksempler på visuelle profiler:
- 
-[Designmanual VTFK](https://designmanual.vtfk.no/var-visuelle-profil/grafiske-elementer/ ), 
-
-[Ny visuell identitet, Oslo kommune](https://www.oslo.kommune.no/prosjekter/ny-visuell-identitet/), 
-
-[Telemark museum](https://r8edge.no/arbeider/telemark-museum/)
-
-
-
-
+Eksempler på visuelle profiler: 
+* [Designmanual VTFK](https://designmanual.vtfk.no/var-visuelle-profil/grafiske-elementer/ ), 
+* [Ny visuell identitet, Oslo kommune](https://www.oslo.kommune.no/prosjekter/ny-visuell-identitet/), 
+* [Telemark museum](https://r8edge.no/arbeider/telemark-museum/)
 
 
 
