@@ -13,9 +13,12 @@ Plassering av både tekst, bilder og figurer skal ha en geometrisk begrunnelse.
 Når du presenterer reklamen din må du huske hvilket fag du skal vise kompetanse fra! Få mest mulig matematikk med i presentasjonen (bruk gjerne matematikkboka som inspirasjon).
 
 Eksempler på visuelle profiler: 
-https://designmanual.vtfk.no/var-visuelle-profil/grafiske-elementer/ 
-https://www.oslo.kommune.no/prosjekter/ny-visuell-identitet/
-https://r8edge.no/arbeider/telemark-museum/
+[Designmanual VTFK](https://designmanual.vtfk.no/var-visuelle-profil/grafiske-elementer/ )
+[Ny visuell identitet, Oslo kommune](https://www.oslo.kommune.no/prosjekter/ny-visuell-identitet/)
+[Telemark museum](https://r8edge.no/arbeider/telemark-museum/)
+
+
+
 
 
 
@@ -34,33 +37,36 @@ https://r8edge.no/arbeider/telemark-museum/
 
  
 ## Dokumentere eget arbeid
-I uke 4 skal klassen presentere reklamene sine for matematikklæreren. 
+I uke XX skal klassen presentere reklamene sine for matematikklæreren. 
 Mens de andre presenterer for lærer skal du ferdigstille dokumentasjon av forarbeid, arbeid og etterarbeid. Dokumentasjonen skal leveres inn. 
 Se ndla-teksten om å dokumentere eget arbeid. Legg spesielt merke til hva du bør ha i tankene mens du gjennomfører oppgava: 
 <!--lage ul i html??-->
-A. 	Ulike måter å dokumentere prosjekter og prosesser
-•	skrive logg
-•	skrive prosjektrapport
-•	gjøre videoopptak
-•	ta bilder 
-•	jobber du på en datamaskin, kan du ta skjermbilder
-•	legge ved produkter/skisser du har produsert 
+1. Ulike måter å dokumentere prosjekter og prosesser
+* skrive logg
+*	skrive prosjektrapport
+*	gjøre videoopptak
+*	ta bilder 
+*	jobber du på en datamaskin, kan du ta skjermbilder
+*	legge ved produkter/skisser du har produsert 
 Kombiner gjerne flere dokumentasjonstyper når du dokumenterer arbeidet ditt. 
-B.  	Sjekkliste dokumentasjon
-•	Finn ut hva du skal dokumentere og hvordan.
-•	Tenk på dokumentasjon underveis i arbeidet, ta bilder, skjermbilder og notater.
-•	Skriv logg etter hver arbeidsøkt.
-•	Lagre med skylagring eller ta backup, slik at du unngår å miste arbeidet du har gjort.
-•	Skriv hvordan og hvorfor, ikke bare hva du har gjort.
-•	Vær detaljert og konkret.
-•	Vis prosessen, ikke bare sluttproduktet.
-•	Trekk inn fagkunnskaper der det er naturlig.
-C.	Tenk gjennom når du skal skrive dokumentasjonen
-•	Hvem skriver jeg for? 
-•	Hvilket kunnskapsnivå har brukeren?
-•	Hvorfor leser brukeren dokumentasjonen? 
-•	Når og hvor leser brukeren dokumentasjonen?
-•	Hva vil jeg oppnå med dokumentasjonen?
-•	Hvilket detaljnivå er nødvendig?
-•	Kan illustrasjoner eller video være til noen hjelp?
+
+2. Sjekkliste dokumentasjon
+*	Finn ut hva du skal dokumentere og hvordan.
+*	Tenk på dokumentasjon underveis i arbeidet, ta bilder, skjermbilder og notater.
+*	Skriv logg etter hver arbeidsøkt.
+*	Lagre med skylagring eller ta backup, slik at du unngår å miste arbeidet du har gjort.
+*	Skriv hvordan og hvorfor, ikke bare hva du har gjort.
+*	Vær detaljert og konkret.
+*	Vis prosessen, ikke bare sluttproduktet.
+*	Trekk inn fagkunnskaper der det er naturlig.
+
+3. Tenk gjennom når du skal skrive dokumentasjonen
+*	Hvem skriver jeg for? 
+*	Hvilket kunnskapsnivå har brukeren?
+*	Hvorfor leser brukeren dokumentasjonen? 
+*	Når og hvor leser brukeren dokumentasjonen?
+*	Hva vil jeg oppnå med dokumentasjonen?
+*	Hvilket detaljnivå er nødvendig?
+*	Kan illustrasjoner eller video være til noen hjelp?
+
 Ved å besvare disse spørsmålene blir du bevisst på hvem du skriver for, og hva dokumentasjonen må inneholde for at den skal bli forståelig og nyttig for den som skal lese. I tillegg unngår du å ta med informasjon som er unødvendig, eller som kanskje ikke blir forstått eller lest i det hele tatt.
