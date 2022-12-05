@@ -23,6 +23,7 @@ https://r8edge.no/arbeider/telemark-museum/
  
 ## Vurderingskriterier
 | --|	1	| Lav kompetanse	| Middels kompetanse	| Høy kompetanse|
+|---|---|---|---|---|
 
 | Reklame: visuell profil		| --| Har minst tre geometriske former i en enkel visuell profil	| Har minst tre geometriske former i en enkel visuell profil, og formene brukes i reklamen	| Viser kunnskap om hvordan den visuelle profilen kan støtte budskapet i reklamen| 
 
@@ -35,7 +36,7 @@ https://r8edge.no/arbeider/telemark-museum/
 | Presentasjon		| --| Presenterer reklamen fritt fra manus	| Presenterer reklamen med begrunnelser for de matematiske valgene som er gjort 	| Har en selvstendig og fri presentasjon av reklamen med grundige begrunnelser for de matematiske valgene som er gjort| 
 
 | Samtale		| --| Kan svare på enkle matematiske spørsmål til reklamen	| Kan samtale om matematiske spørsmål til reklamen	| Kan samtale om og reflektere rundt matematiske spørsmål til reklamen|
- 
+
 | Dokumentasjon av arbeidsprosess		| --| Leverer inn bilder og noe tekst som dokumenterer noe av arbeidsprosessen	| Dokumenterer flere deler av arbeidsprosessen gjennom tekst og bilder.	| Dokumenterer hele arbeidsprosessen på en grundig og god måte| 
 
  
