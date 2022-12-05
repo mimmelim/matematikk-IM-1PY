@@ -1,11 +1,11 @@
-Lag en reklame for 
-et godteri. 
+# Lag en reklame for et godteri. 
+<img src="#" alt="bilde av godteri">
 
-Fag: Matematikk
-Tema: Geometri
-Oppgave: Lag en reklame for et godteri. 
-Kompetansemål: utforske og bruke geometriske former og forhold og bruke det i design og produktutvikling 
-Vurderingsform: Du skal presentere den visuelle profilen og reklamen muntlig for matematikklærer.
+## Fag: Matematikk
+## Tema: Geometri
+## Oppgave: Lag en reklame for et godteri. 
+## Kompetansemål: utforske og bruke geometriske former og forhold og bruke det i design og produktutvikling 
+## Vurderingsform: Du skal presentere den visuelle profilen og reklamen muntlig for matematikklærer.
 
 Du skal lage dekorelementer til en enkel visuell profil som består av minst 3 geometriske figurer. Bruk elementer fra den visuelle profilen i utforminga av reklamen.
 I tillegg bør reklamen din inneholde bilde/-r og tekst. Du skal ta egne bilder.
@@ -21,7 +21,8 @@ https://r8edge.no/arbeider/telemark-museum/
 
 
  
-Vurderingskriterier
+## Vurderingskriterier
+<!--må jeg lage html-tabell her??-->
 	1	Lav kompetanse	Middels kompetanse	Høy kompetanse
 Reklame: visuell profil		Har minst tre geometriske former i en enkel visuell profil	Har minst tre geometriske former i en enkel visuell profil, og formene brukes i reklamen	Viser kunnskap om hvordan den visuelle profilen kan støtte budskapet i reklamen
 Reklame: komposisjon		Reklamen inneholder flere elementer 	Bruker linjer, forhold og komposisjon til å plassere elementer i reklamen	Viser kunnskap om hvilken effekt linjer, forhold og komposisjon har ved plassering av elementer i reklamen
@@ -32,10 +33,11 @@ Samtale		Kan svare på enkle matematiske spørsmål til reklamen	Kan samtale om 
 Dokumentasjon av arbeidsprosess		Leverer inn bilder og noe tekst som dokumenterer noe av arbeidsprosessen	Dokumenterer flere deler av arbeidsprosessen gjennom tekst og bilder.	Dokumenterer hele arbeidsprosessen på en grundig og god måte
 
  
-Dokumentere eget arbeid
+## Dokumentere eget arbeid
 I uke 4 skal klassen presentere reklamene sine for matematikklæreren. 
 Mens de andre presenterer for lærer skal du ferdigstille dokumentasjon av forarbeid, arbeid og etterarbeid. Dokumentasjonen skal leveres inn. 
 Se ndla-teksten om å dokumentere eget arbeid. Legg spesielt merke til hva du bør ha i tankene mens du gjennomfører oppgava: 
+<!--lage ul i html??-->
 A. 	Ulike måter å dokumentere prosjekter og prosesser
 •	skrive logg
 •	skrive prosjektrapport
@@ -62,4 +64,3 @@ C.	Tenk gjennom når du skal skrive dokumentasjonen
 •	Hvilket detaljnivå er nødvendig?
 •	Kan illustrasjoner eller video være til noen hjelp?
 Ved å besvare disse spørsmålene blir du bevisst på hvem du skriver for, og hva dokumentasjonen må inneholde for at den skal bli forståelig og nyttig for den som skal lese. I tillegg unngår du å ta med informasjon som er unødvendig, eller som kanskje ikke blir forstått eller lest i det hele tatt.
-
