@@ -33,18 +33,17 @@ Evt. Ekstraoppgave: Skrive en algoritme for å bygge/programmere en bit:bot.
 * Målenheter
 
 
-Micro:bit/droner 
+### Micro:bit/droner 
 Læringsmål|	• Tolke og  bruke formler som gjelder dagligliv og yrkesliv
 --- | ---
-	-kan gjøre beregninger med fart og akselerasjon	• Tolke og bruke sammensatte måleenheter i praktiske sammenhenger og velge egnet måleenhet
-	-kan regne om mellom m/s og km/h.	• innhente data og behandle store datasett, gjøre beregninger og lage hensiktsmessige framstillinger av resultatene og presentere disse
-
-	-kan bruke rette måleenheter
-	-kan sette opp en hypotese og teste denne (PDB-metode)
-	-kan samle inn data basert på forsøk
-	-kan organisere/systematisere dataene i diagram (stolpe-, sektor- og linje-)
-	-kan vurdere hvilket diagram som er hensiktsmessig
-	-kan beregne median, typetall, gjennomsnitt og standardavvik digitalt (Geogebra, Excel, Python, JavaScript?)
+	-kan gjøre beregninger med fart og akselerasjon|	• Tolke og bruke sammensatte måleenheter i praktiske sammenhenger og velge egnet måleenhet
+	-kan regne om mellom m/s og km/h.|	• innhente data og behandle store datasett, gjøre beregninger og lage hensiktsmessige framstillinger av resultatene og presentere disse
+	-kan bruke rette måleenheter|
+	-kan sette opp en hypotese og teste denne (PDB-metode)|
+	-kan samle inn data basert på forsøk|
+	-kan organisere/systematisere dataene i diagram (stolpe-, sektor- og linje-)|
+	-kan vurdere hvilket diagram som er hensiktsmessig|
+	-kan beregne median, typetall, gjennomsnitt og standardavvik digitalt (Geogebra, Excel, Python, JavaScript?)|
 	
 
 
