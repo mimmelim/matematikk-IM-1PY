@@ -27,9 +27,9 @@ https://r8edge.no/arbeider/telemark-museum/
 | Reklame: komposisjon		| --| Reklamen inneholder flere elementer 	| Bruker linjer, forhold og komposisjon til å plassere elementer i reklamen	| Viser kunnskap om hvilken effekt linjer, forhold og komposisjon har ved plassering av elementer i reklamen| 
 | Foto: komposisjon		| -- | Reklamen har et bilde	| Reklamen har minst ett egenprodusert bilde der komposisjonsprinsipper er brukt.	| Reklamen har minst ett egenprodusert bilde der komposisjonsprinsipper er brukt på en bevisst måte| 
 | Matematikk		| --| Har valgt minst tre geometriske former	| Bruker minst tre geometriske former i reklamen, i tillegg til forhold eller linjer	| Bruker minst tre geometriske former i reklamen, i tillegg til forhold og linjer| 
-|Presentasjon		|--|Presenterer reklamen fritt fra manus	|Presenterer reklamen med begrunnelser for de matematiske valgene som er gjort 	|Har en selvstendig og fri presentasjon av reklamen med grundige begrunnelser for de matematiske valgene som er gjort|
-|Samtale		|--|Kan svare på enkle matematiske spørsmål til reklamen	|Kan samtale om matematiske spørsmål til reklamen	|Kan samtale om og reflektere rundt matematiske spørsmål til reklamen|
-|Dokumentasjon av arbeidsprosess		|--|Leverer inn bilder og noe tekst som dokumenterer noe av arbeidsprosessen	|Dokumenterer flere deler av arbeidsprosessen gjennom tekst og bilder.	|Dokumenterer hele arbeidsprosessen på en grundig og god måte|
+| Presentasjon		| --| Presenterer reklamen fritt fra manus	| Presenterer reklamen med begrunnelser for de matematiske valgene som er gjort 	| Har en selvstendig og fri presentasjon av reklamen med grundige begrunnelser for de matematiske valgene som er gjort| 
+| Samtale		| --| Kan svare på enkle matematiske spørsmål til reklamen	| Kan samtale om matematiske spørsmål til reklamen	| Kan samtale om og reflektere rundt matematiske spørsmål til reklamen| 
+| Dokumentasjon av arbeidsprosess		| --| Leverer inn bilder og noe tekst som dokumenterer noe av arbeidsprosessen	| Dokumenterer flere deler av arbeidsprosessen gjennom tekst og bilder.	| Dokumenterer hele arbeidsprosessen på en grundig og god måte| 
 
  
 ## Dokumentere eget arbeid
