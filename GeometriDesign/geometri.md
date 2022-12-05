@@ -1,5 +1,5 @@
 # Lag en reklame for et godteri. 
-![bilde av godteri](kildefil.png)
+![bilde av godteri](godteri.jpg)
 
 ## Fag: Matematikk
 ## Tema: Geometri
