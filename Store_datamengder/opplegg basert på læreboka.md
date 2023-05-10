@@ -6,6 +6,10 @@
 
 - Evt undersøke sammen hva de ulike _filtypene_ betyr.
 
+
+Se på oppgava om temperaturmålinger sammen - først to og to - etterpå på tavla:
+![Se på oppgava om temperaturmålinger sammen - først to og to - etterpå på tavla](../img/ex12s134tempMaalingerStuderDataene.PNG)
+
 - Når vi undersøker et tallmateriale:
     - Vær obs på feilregistrereinger (kulde/is som forstyrrer målinger +++)
     - Komma eller punktum som desimalskiller?
