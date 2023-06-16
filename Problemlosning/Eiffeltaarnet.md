@@ -3,4 +3,4 @@
 
 <br>
 
-![Eiffeltårnet](../img/eiffeltaarnet.jpg)
+![Eiffeltårnet](../img/eiffeltaarnet.jpg | width=300)
