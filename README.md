@@ -6,7 +6,7 @@ Diverse oppgaver og opplegg som jeg bruker i matematikk på IM
 - Det har skjedd en feil
 - Kredittkort og lån
 - Problemløsning
-- Geometri og design
+- [Geometri og design](https://github.com/mimmelim/matematikk-IM-1PY/blob/main/GeometriDesign/geometri.md)
 - Kjøttboller
 - Landkjørende droner og statistikk
 - Bedriftsøkonomi; selvkostkalkyle
