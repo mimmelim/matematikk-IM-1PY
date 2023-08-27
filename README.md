@@ -1,7 +1,7 @@
 # matematikk-IM-1PY
 Diverse oppgaver og opplegg som jeg bruker i matematikk på IM
 
-###Rekkefølge
+### Rekkefølge
 - Du har vunnet 25 000
 - Det har skjedd en feil
 - Kredittkort og lån
