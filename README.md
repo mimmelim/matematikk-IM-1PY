@@ -10,7 +10,7 @@ Diverse oppgaver og opplegg som jeg bruker i matematikk på IM
 - Kredittkort og lån
 - Problemløsning
 - [Geometri og design](https://github.com/mimmelim/matematikk-IM-1PY/blob/main/GeometriDesign/geometri.md)
-- Kjøttboller
+- [Kjøttboller](https://github.com/mimmelim/matematikk-IM-1PY/blob/main/Kj%C3%B8ttboller/komfyr_med_oppgavetekst.png)
 - Landkjørende droner og statistikk
 - Bedriftsøkonomi; selvkostkalkyle
 - Store datamengder
